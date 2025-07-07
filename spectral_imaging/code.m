@@ -1,5 +1,5 @@
-clear 
-clc
+clear;
+clc;
 
 
 path_directory_ref='reference-white'; 
